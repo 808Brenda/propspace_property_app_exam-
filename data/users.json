@@ -1,0 +1,11 @@
+[
+  {
+    "id": "admin_user",
+    "username": "SamuelEtoo",
+    "email": "samuel@propspace.com",
+    "passwordHash": "6594068bb71d5e47eca068320277868e:3fb8a1b3308f22098d02c3eb57b2991c302d08c02a71c68cf7b102209ae20a260fb145bb2186290271f87d2ce8cda4b909f3aef65753261f77661775bdf8a7c8",
+    "contactNumber": "+237 670 123 456",
+    "avatarUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-06-24T11:48:02.538Z"
+  }
+]

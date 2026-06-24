@@ -1,0 +1,92 @@
+[
+  {
+    "id": "prop_1",
+    "title": "Luxury 3-Bedroom Apartment in Bonapriso",
+    "description": "Located in the quiet and secure neighborhood of Bonapriso, Douala. This luxurious 3-bedroom apartment features master bedrooms with modern amenities, fully fitted kitchen, air conditioning in all rooms, stand-by generator, and 24/7 security. Perfect for professionals or families.",
+    "price": 1500000,
+    "location": "Douala",
+    "type": "Apartment",
+    "purpose": "rent",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80"
+    ],
+    "authorId": "admin_user",
+    "authorName": "Samuel Eto'o",
+    "authorPhone": "+237 670 123 456",
+    "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-06-24T11:48:02.533Z",
+    "isRentedOrSold": false
+  },
+  {
+    "id": "prop_2",
+    "title": "Charming Modern Studio in Bastos",
+    "description": "A beautiful, premium modern studio apartment situated in the high-end diplomatic area of Bastos, Yaoundé. Highly secured, spacious living room, stylish American-style kitchen, water heater, water tank with booster pump, and dedicated parking space. Price is inclusive of security and water charges.",
+    "price": 350000,
+    "location": "Yaounde",
+    "type": "Studio",
+    "purpose": "rent",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?auto=format&fit=crop&w=800&q=80"
+    ],
+    "authorId": "admin_user",
+    "authorName": "Samuel Eto'o",
+    "authorPhone": "+237 670 123 456",
+    "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-06-24T11:48:02.535Z",
+    "isRentedOrSold": false
+  },
+  {
+    "id": "prop_3",
+    "title": "Stunning Beachfront Villa with Atlantic View",
+    "description": "An absolute masterpiece beachfront villa located on the pristine shores of Limbe. This estate boasts 5 massive ensuite bedrooms, an open-concept living area with panoramic ocean views, private swimming pool, outdoor beach lounge, manicured lawn, and supreme privacy. Excellent for holiday getaways or prestigious living.",
+    "price": 120000000,
+    "location": "Limbe",
+    "type": "House",
+    "purpose": "sale",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=800&q=80"
+    ],
+    "authorId": "admin_user",
+    "authorName": "Samuel Eto'o",
+    "authorPhone": "+237 670 123 456",
+    "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-06-24T11:48:02.535Z",
+    "isRentedOrSold": false
+  },
+  {
+    "id": "prop_4",
+    "title": "4-Bedroom Modern House with Pool in Kribi",
+    "description": "Experience luxurious seaside living in Kribi, the tourism capital. This property offers a state-of-the-art 4-bedroom house with a private swimming pool, lush gardens, high perimeter walls, security guard post, and premium interior finishings. Only a 5-minute walk from the beach and fine seafood restaurants.",
+    "price": 85000000,
+    "location": "Kribi",
+    "type": "House",
+    "purpose": "sale",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=800&q=80"
+    ],
+    "authorId": "admin_user",
+    "authorName": "Samuel Eto'o",
+    "authorPhone": "+237 670 123 456",
+    "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-06-24T11:48:02.535Z",
+    "isRentedOrSold": false
+  },
+  {
+    "id": "prop_5",
+    "title": "Cozy Student Studio near University of Buea",
+    "description": "An affordable, clean, and highly functional studio apartment located in Molyko, Buea, right next to the University of Buea. It features constant running water, prepaid electricity meter, individual kitchen, balcony, and is located in a vibrant student friendly area with robust security gates.",
+    "price": 80000,
+    "location": "Buea",
+    "type": "Studio",
+    "purpose": "rent",
+    "imageUrls": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?auto=format&fit=crop&w=800&q=80"
+    ],
+    "authorId": "admin_user",
+    "authorName": "Samuel Eto'o",
+    "authorPhone": "+237 670 123 456",
+    "authorAvatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=150&q=80",
+    "createdAt": "2026-06-24T11:48:02.535Z",
+    "isRentedOrSold": false
+  }
+]

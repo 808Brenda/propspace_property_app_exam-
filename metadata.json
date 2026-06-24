@@ -1,0 +1,6 @@
+{
+  "name": "PropSpace",
+  "description": "A comprehensive real estate listing platform in Cameroon supporting properties for rent or sale, secure Stripe-like payments in FCFA, user profile dashboards, and an AI real estate agent powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
